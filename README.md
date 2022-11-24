@@ -2,6 +2,9 @@
 
 Its pronounced `duh · skre · buh · muh` in spanish! 
 
+Only for Google Chrome latest version, not compatible with Firefox or Safari.
+
+Play with it in https://arkisto-platform.github.io/describe-me/ 
 
 ### Installation
 
@@ -14,6 +17,8 @@ npm install
 ```sh
 npm start
 ```
+
+And go to http://localhost:8081/
 
 ### Build Prod Version
 
@@ -35,3 +40,4 @@ When you run `npm run build` we use the [mini-css-extract-plugin](https://github
 ### Notes:
 
 - This is a fork from https://github.com/wbkd/webpack-starter.git to get started
+- Every push will be live on https://arkisto-platform.github.io/describe-me/
