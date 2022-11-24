@@ -2,8 +2,6 @@ import '../styles/index.scss';
 import {JSONEditor} from 'vanilla-jsoneditor';
 
 (function () {
-
-
     console.log('webpack starterkit');
 
     const pickerOpts = {
